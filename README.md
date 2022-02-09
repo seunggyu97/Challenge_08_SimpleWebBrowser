@@ -72,5 +72,4 @@
                             
 # 실행화면
 
-<img src="https://user-images.githubusercontent.com/74666576/152837471-1d4afdc7-c407-4051-bc59-18cc1d3c5326.jpg" width="270" height="500">
-<img src="https://user-images.githubusercontent.com/74666576/152838123-e5103f60-249c-4b55-9b5f-61d9a916768e.gif" width="270" height="500">
+<img src="https://user-images.githubusercontent.com/74666576/153262162-b4e963fc-049e-4a7b-a6ea-a2654ddc1b69.mp4" width="270" height="500">
