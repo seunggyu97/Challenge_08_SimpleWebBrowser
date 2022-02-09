@@ -58,7 +58,7 @@
   webView.goForward()
   ```
 * BackButton 클릭시 (기기의 물리적인 뒤로가기 버튼)
-  * BackButton 클릭시 이전페이지가 존재하면 이전페이지로 이동, 존재하지 않으면 앱 종료
+  * 이전페이지가 존재하면 이전페이지로 이동, 존재하지 않으면 앱 종료
   ```kotlin
   override fun onBackPressed() {
     if(webView.canGoBack()) {
