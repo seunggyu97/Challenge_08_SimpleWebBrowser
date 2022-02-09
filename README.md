@@ -18,7 +18,7 @@
 ## 학습 내용
 
 ### WebView
-* 인터넷 브라우저인 만큼 Internet permission이 요구된다.
+* 웹 브라우저인 만큼 Internet permission이 요구된다.
   * [Manifest]
   ```kotlin 
   <uses-permission android:name="android.permission.INTERNET"/>
